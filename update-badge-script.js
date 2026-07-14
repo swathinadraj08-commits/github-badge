@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-let userName = "mkpg";
+let userName = "swathinadraj08-commits";
 
 let pipelineRun = true; // Set to false for local debugging
 let templateFile = 'github-repo-count-template.svg';
